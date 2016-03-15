@@ -1,0 +1,20 @@
+{
+    "SaleOrderID":"9990000024963",
+    "Name":"PACK SIMP. II RM BUFFET CUISINE",
+    "TaxCategory":{
+        "Category_ID":"TVA",
+        "Name":"TVA normale",
+        "Rate":"20.00"
+    },
+    "Description":[
+        "description1",
+        " description2",
+        " description3",
+        " description4"
+    ],
+    "ProductCategory":{
+        "Type_ID":"S",
+        "Name":"Assurance"
+    },
+    "Code_EAN":"8806323308906"
+}

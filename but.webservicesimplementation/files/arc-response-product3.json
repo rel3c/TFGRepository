@@ -1,0 +1,93 @@
+{
+    "Product_ID":"2470000109047",
+    "Name":"Southwood LHF NOIR",
+    "Description":[
+        "description1",
+        "description2",
+        "description3",
+        "description 4"
+    ],
+    "Unit_Of_Measure":"UNIT",
+    "TaxCategory":{
+        " TaxeCode":"TVA",
+        " TaxeName":"TVA normale",
+        "TaxeRate":"20.00",
+        "StartDate":"2016/01/15"
+    },
+    "TaxDEA":{
+        "DEA_Code":"XXXX",
+        "DEA_Amount":"2.5"
+    },
+    "DEEE_Amount":"0.5",
+    "Product Category":{
+        "Code_Famille":" ssalc ",
+        "Code_Sous_Famille":" Salon ANGL"
+    },
+    "Code_EAN":"3517920261901",
+    "Brand":"SANSMARQUE",
+    "Product_Type":"I",
+    "Grouped_Product":"Y",
+    "Show_stock_screen ":"Y",
+    "Editable_Price":"Y",
+    "Show_Characteristics_Description":"N",
+    "ProductComplementary":[
+        {
+            "Product_ID":"2470000149004",
+            "Product_Name":"xxxx",
+            "Code_EAN":"8806323308906"
+        },
+        {
+            "Product_ID":"2470000146082",
+            "Product_Name":"yyyy",
+            "Code_EAN":"3700162017065"
+        }
+    ],
+    "ProductCharacteristics":[
+        {
+            "Characteristic":"COLORIS_FABRICANT",
+            "Value":"BLANC"
+        },
+        {
+            "Characteristic":"HAUTEUR",
+            "Value":"30"
+        },
+        {
+            "Characteristic":"LARGEUR",
+            "Value":"12.4"
+        },
+        {
+            "Characteristic":"LONGUEUR",
+            "Value":"28"
+        },
+        {
+            "Characteristic":"MARQUE",
+            "Value":"SANSMARQUE"
+        },
+        {
+            "Characteristic":"NOMBRE_COLIS",
+            "Value":"2"
+        },
+        {
+            "Characteristic":"POIDS_COLIS[1]",
+            "Value":"20"
+        },
+        {
+            "Characteristic":"VOLUME_COLIS[1]",
+            "Value":"50"
+        },
+        {
+            "Characteristic":"POIDS_COLIS[2]",
+            "Value":"10"
+        },
+        {
+            "Characteristic":"VOLUME_COLIS[2]",
+            "Value":"30"
+        }
+    ],
+    "IsLocal":"Y",
+    "Product Assortment":{
+        "Store_ID":"247",
+        "Store_Name":"BUT AUXERRE",
+        "BestSeller":"N"
+    }
+}

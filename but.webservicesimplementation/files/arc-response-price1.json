@@ -1,0 +1,14 @@
+{  
+   "Product_ID":"0050000020659",
+   "IsLocal":"Y",
+   "Currency":"EUR",
+   "PVE_Price":null,
+   "Price_includes_Tax":"Y",
+   "PriceList":[  
+      {  
+         "Name":"CAEN",
+         "Store_ID":"500",
+         "Store_Price":"620"
+      }
+   ]
+}
